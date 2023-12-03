@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701609695 source:e:\c\spbu_programming_c\homework3\main.c
+	<stdio.h>
+	<stdlib.h>
+
